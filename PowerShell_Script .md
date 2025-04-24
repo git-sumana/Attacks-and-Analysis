@@ -5,7 +5,7 @@ A suspicious PowerShell script was executed on the host by the user. This detect
 
 ## Observations
 1. We have observed PowerShell scripts related to Microsoft Defender for Endpoint on the above-mentioned host.
-2. Based on its file path and naming convention, `HandlerUtilities.psm1` is likely a utility script used during the deployment and configuration of the MDE agent on Windows servers managed by Azure Defender for Servers.
+2. Based on its file path and naming convention, `filename` is likely a utility script used during the deployment and configuration of the MDE agent on Windows servers managed by Azure Defender for Servers.
 3. Event ID 4104 in the Windows event log indicates PowerShell Script Block Logging. It logs the execution of PowerShell script blocks.
 
 ## Recommendations
