@@ -18,4 +18,4 @@ By understanding the various types of cyber attacks and implementing the recomme
 
 ---
 
-Feel free to customize this further to suit your specific needs!
+Feel free to collaborate and contribute my co-CyberOps!
